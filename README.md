@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryabhatt-O
 - 👀 I’m interested in NP HARD Problems
-- 🌱 I’m currently doing(Learning) Computational Geometry
+- 🌱 I’m currently doing(Learning) Geometric Deep Learning
 - :-)
 <!---
 Aryabhatt-O/Aryabhatt-O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
