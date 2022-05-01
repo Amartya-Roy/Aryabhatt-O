@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Spectral K-Means**
 
-- 🌱 I’m currently learning **Geometric Deep Learning**
+- 🌱 I’m currently learning **Deep Learning Theory**
 
 - 📝 I regularly write articles on https://mrbublaroy1998.medium.com/
 
