@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amartya Roy</h1>
 <h3 align="center">A passionate ML-Researcher from India</h3>
 
-- 🔭 I’m currently working on **Spectral K-Means**
+- 🔭 I’m currently working on **DTO SMOTE**
 
 - 🌱 I’m currently learning **Deep Learning Theory**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amartyar.cse.pg2@jadavpuruniversity.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11JmcT-rfDyDdjVaF_dh-W7u8WFwiC_LX/view?usp=sharing](https://drive.google.com/file/d/11JmcT-rfDyDdjVaF_dh-W7u8WFwiC_LX/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
