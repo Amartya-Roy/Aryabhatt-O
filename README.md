@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DTO SMOTE**
 
-- 🌱 I’m currently learning **Deep Learning Theory**
+- 🌱 I’m currently learning **Deep Learning Theory and Empirical Process Theory and Application**
 
 - 📝 I regularly write articles on https://mrbublaroy1998.medium.com/
 
