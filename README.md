@@ -1,4 +1,4 @@
-[Myself :).pdf](https://github.com/Aryabhatt-O/Aryabhatt-O/files/9135970/Amartya_resume_updtd.pdf)
+[Myself :)](https://github.com/Aryabhatt-O/Aryabhatt-O/files/9135970/Amartya_resume_updtd.pdf)
 <h1 align="center">Hi 👋, I'm Amartya Roy</h1>
 <h3 align="center">A passionate ML-Researcher from India</h3>
 
