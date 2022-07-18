@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deep Learning Theory and Empirical Process Theory and Application and Julia**
 
-- 📝 I regularly write articles on https://mrbublaroy1998.medium.com/
+- 📝 I used to write articles on https://mrbublaroy1998.medium.com/
 
 - 💬 Ask me about **Mathematical Intuition of Machine Learning Algorithms**
 
