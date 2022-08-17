@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amartya Roy</h1>
 <h3 align="center">A passionate ML-Researcher from India</h3>
 
-- 🔭 I’m currently working on **Neuro Symbolic Methods**
+- 🔭 I’m currently working on **Neuro Symbolic Methods and Wavelet Neural Operator**
 
 - 🌱 I’m currently learning **Deep Learning Theory and Empirical Process Theory and Application and Julia**
 
