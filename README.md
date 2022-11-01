@@ -1,4 +1,4 @@
-[CV :)](https://drive.google.com/file/d/1xgC9s1jjwTfuTYxYf3DvO0SSU3a4HvmO/view?usp=sharing)
+
 <h1 align="center">Hi 👋, I'm Amartya Roy</h1>
 <h3 align="center">A passionate ML-Researcher from India</h3>
 
