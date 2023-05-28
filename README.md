@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Large Language Model Theory**
 
-- 🌱 I’m currently learning **Deep Learning Theory, Operator Learning**
+- 🌱 I’m currently learning **Deep Learning Theory, Operator Learning, LLMs**
 
 - 📝 I used to write articles on https://mrbublaroy1998.medium.com/
 
