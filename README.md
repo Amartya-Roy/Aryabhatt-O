@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Mathematical Intuition of Machine Learning Algorithms**
 
-- :) **Senior ML Engineer@BOSCH**
+-  **Senior ML Engineer@BOSCH**
 
 - 📫 How to reach me **amartyar.cse.pg2@jadavpuruniversity.in**
 
