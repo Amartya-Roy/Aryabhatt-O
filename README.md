@@ -12,7 +12,7 @@
 
 -  **Senior ML Engineer@BOSCH**
 
-- 📫 How to reach me **amartyar.cse.pg2@jadavpuruniversity.in**
+- 📫 How to reach me **amartyaroy1998@gmail.com**
 
 
 
